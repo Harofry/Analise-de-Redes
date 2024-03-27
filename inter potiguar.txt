@@ -1,1 +1,2 @@
 camisa10 = str("soft goal")
+Test int
