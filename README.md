@@ -1,4 +1,4 @@
-Duração semestral de teste: - 60 horas
+Duração semestral de teste: - 60 horas.
 
 
 
