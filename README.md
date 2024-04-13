@@ -1,6 +1,4 @@
-# Analise-de-Redes
-Disciplina optativa do BTI - 24T34
-Duração semestral - 60 horas
+Duração semestral de teste: - 60 horas
 
 
 
